@@ -1,13 +1,13 @@
 ---
 course_feature_tags: []
-description: ''
+description: asdf
 file: null
-filetype: Video
+filetype: Document
 metadata:
   caption: ''
   credit: ''
   image-alt: ''
-title: grapes
+title: another document
 type: resource
-uid: 89aee587-8102-4cd0-b609-be87dfe011ab
+uid: 73ac30b4-14a3-476c-8d6d-7ab0b2be5090
 ---

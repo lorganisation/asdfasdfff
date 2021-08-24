@@ -1,0 +1,30 @@
+{
+  "level": "",
+  "topics": [
+    [
+      "Fine Arts",
+      "Game Design",
+      ""
+    ]
+  ],
+  "instructors": {
+    "content": [],
+    "website": "test-course-number-infinity"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test-course-number-infinity"
+  },
+  "course_title": "title here",
+  "course_description": "",
+  "department_numbers": [
+    "1"
+  ],
+  "course_feature_tags": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "asf",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test-course-number-infinity"
+  }
+}
