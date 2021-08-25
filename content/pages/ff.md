@@ -11,6 +11,6 @@ and image:
 
 {{< resource 1218941d-391b-4f15-acbb-d990f01dcd9d >}}
 
-and another image!
+and video:
 
-{{< resource 770223ff-f092-4c95-abd2-83077558527c >}}
+{{< resource 9ec92b09-d55c-42a0-8f97-9fd603a75b74 >}}
